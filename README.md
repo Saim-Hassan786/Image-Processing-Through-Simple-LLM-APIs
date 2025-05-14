@@ -4,7 +4,7 @@ This guide explains the **basic concepts** behind using Google’s Gemini model 
 
 ---
 
-## What is Gemini?
+## What is Gemini
 
 Gemini is a **multimodal AI model** by Google that can understand both **text and images** together. It is part of Google's advanced AI systems designed for tasks like:
 
